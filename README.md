@@ -1,6 +1,5 @@
 # Projeto Multiverso Spiderman
 
-Link do projeto: https://didactic-note.surge.sh/index.html
 
 ![Multiverso Spiderman](https://i0.wp.com/cromossomonerd.com.br/wp-content/uploads/2019/06/aranhaverso-capa.png?fit=1068%2C600&ssl=1)
 Fonte: https://i0.wp.com/cromossomonerd.com.br/wp-content/uploads/2019/06/aranhaverso-capa.png?fit=1068%2C600&ssl=1
