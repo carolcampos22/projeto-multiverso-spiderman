@@ -5,9 +5,6 @@
 Fonte: https://i0.wp.com/cromossomonerd.com.br/wp-content/uploads/2019/06/aranhaverso-capa.png?fit=1068%2C600&ssl=1
 
 
-Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietária de nenhuma imagem, vídeo ou informações ali mostrados.
-
-
 ## Funcionalidades do projeto
  - [x] Visualização das três versões principais do Homem-Aranha interpretados por Tobey Maguire, Andrew Garfield e Tom Holland;
  - [x] Cada fotografia na página inicial leva à página da respectiva versão;
@@ -48,3 +45,5 @@ $ git clone https://github.com/carolcampos22/projeto-multiverso-spiderman
 -  Gwen Stacy
  
  
+Este site foi criado para fins de aprendizado, junto à DIO. Não sou proprietária de nenhuma imagem, vídeo ou informações ali mostrados.
+
