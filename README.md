@@ -20,7 +20,6 @@ Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietá
 ![Página inicial](./assets/images/screen/homepage.png)
 ![Tela Spiderman 2](./assets/images/screen/tela-spider-man2.png)
 ![Tela Amazing Spiderman 2](./assets/images/screen/tela-amazing-spiderman-2.png)
-![Tela Far from Home](./assets/images/screen/tela-far-from-home.png)
 ![Tela Amostra da foto maior](./assets/images/screen/tela-picture-tom.png)
 ![Tela No Way Home](./assets/images/screen/tela-no-way-home.png)
 
