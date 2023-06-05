@@ -6,15 +6,8 @@ Link do projeto: https://didactic-note.surge.sh/index.html
 Fonte: https://i0.wp.com/cromossomonerd.com.br/wp-content/uploads/2019/06/aranhaverso-capa.png?fit=1068%2C600&ssl=1
 
 
-Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietária de nenhuma imagem, vídeo ou informações ali mostradas.
+Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietária de nenhuma imagem, vídeo ou informações ali mostrados.
 
-## Índice
- - <a href="#funcionalidades">Funcionalidades do projeto</a>
- - <a href="#layout">Layout</a>
- - <a href="#demonstracao">Demonstração</a>
- - <a href="#rodar">Como rodar este projeto?</a>
- - <a href="#tecnologias">Tecnologias utilizadas</a>
- - <a href="#passos">Próximos passos</a>
 
 ## Funcionalidades do projeto
  - [x] Visualização das três versões principais do Homem-Aranha interpretados por Tobey Maguire, Andrew Garfield e Tom Holland;
@@ -33,7 +26,7 @@ Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietá
 ![Tela No Way Home](./assets/images/screen/tela-no-way-home.png)
 
 ## Demonstração
-Link do Projeto:
+Acesse o site do projeto neste [link](https://dependent-thumb.surge.sh).
 
 ## Como rodar este projeto?
 
