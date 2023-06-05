@@ -11,7 +11,7 @@ Um site criado para fins de aprendizado, feito junto à DIO. Não sou proprietá
 
 ## Funcionalidades do projeto
  - [x] Visualização das três versões principais do Homem-Aranha interpretados por Tobey Maguire, Andrew Garfield e Tom Holland;
- - [x] Cada fotografia leva à página da respectiva versão;
+ - [x] Cada fotografia na página inicial leva à página da respectiva versão;
  - [x] Cada versão possui em sua página botões que levam às páginas de cada filme;
  - [x] Nas páginas de cada filme, é possível ter acesso à sinopse, ano de lançamento, diretor, trailer e algumas fotos de cenas ou bastidores do filme.
 
